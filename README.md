@@ -77,4 +77,4 @@ test
 [root@lvm ~]#
 ```
 
-![Image alt](https://github.com/freemax-0602/grub/raw/main/grub_test.png)
+![Результат работы](https://github.com/freemax-0602/grub/blob/main/grub_test.jpg)
